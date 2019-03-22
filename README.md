@@ -1,8 +1,8 @@
 # Natas solutions
-## This repository consists of python 2.7 solutions to
-## a
-## b
-## c
+### This repository consists of python 2.7 solutions to
+    overTheWires' Natas web-challenges
+### 
+### 
 
 ### Libraries used:
 #### - Requests
