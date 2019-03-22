@@ -1,3 +1,5 @@
-# natas_solutions
-### Test
-### Test2
+# Python solutions to 'overthewire.org/wargames/natas'
+### Libraries used:
+#### - Requests
+#### - Beautifulsoup
+#### - Pwntools
