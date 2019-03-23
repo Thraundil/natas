@@ -6,3 +6,5 @@
 ### Libraries used:
 - Requests
 - Beautifulsoup
+- Pwntools (only used in natas28)
+- subprocess (only used in natas26)
